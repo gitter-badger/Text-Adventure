@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1342147535 source:c:\users\admin\downloads\c++\tba\main.cpp
+	<iostream>
+	<string>
+
